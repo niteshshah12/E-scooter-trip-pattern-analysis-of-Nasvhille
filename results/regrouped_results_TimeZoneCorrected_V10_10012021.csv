@@ -1,0 +1,27 @@
+,Daytime short errand,Morning work/school,Nighttime entertainment districts,Social,Utilitarian
+Trip distance (miles),0.71,0.68,0.67,0.68,0.86
+Trip duration (minutes),17.13,13.07,15.07,16.53,17.36
+Route directness ratio,0.49,0.60,0.57,0.52,0.64
+Average trip speed (mph),2.76,3.62,2.97,2.75,3.27
+Average daily temperature,64.63,65.55,65.41,65.22,63.40
+Proportion of CBD land use at origin,0.66,0.65,0.67,0.71,0.62
+Proportion of urban land use at origin,0.24,0.25,0.22,0.18,0.27
+Average population density at origin,8983.54,7475.39,8310.11,9197.89,5866.55
+Average employment density at origin,79228.37,59800.97,80251.17,87626.72,53642.39
+Average parking density at origin,13559.66,9114.48,13708.41,15135.34,8761.92
+Entropy at origin,0.69,0.63,0.67,0.70,0.56
+Proportion of CBD land use at destination,0.66,0.70,0.64,0.72,0.60
+Proportion of urban land use at destination,0.24,0.20,0.25,0.17,0.29
+Average population density at destination,9037.09,8021.85,7909.03,9281.62,5381.02
+Average employment density at destination,85090.22,79262.92,74195.29,92812.85,42925.37
+Average parking density at destination,15033.61,13712.36,12265.58,16305.78,6344.97
+Entropy at destination,0.68,0.66,0.63,0.70,0.52
+Trips on special event,0.14,0.10,0.16,0.15,0.12
+Weekend trips,0.08,0.14,0.27,0.55,0.15
+Percentage_of_weekend_trip_inCluster,8.90,3.75,17.23,56.71,13.41
+Percentage_of_special_day_trip_inCluster,28.94,5.34,18.56,27.81,19.35
+Percentage_of_vanderbilt_trip_inCluster,9.19,11.46,12.68,7.77,58.89
+Percentage_of_park_trip_inCluster,30.58,5.23,10.26,23.19,30.74
+Percentage_of_trips,29.03,6.92,16.17,25.78,22.10
+Percentage_by_VMT,28.24,6.48,14.86,24.20,26.21
+Percentage_by_duration,30.30,5.51,14.84,25.97,23.38
