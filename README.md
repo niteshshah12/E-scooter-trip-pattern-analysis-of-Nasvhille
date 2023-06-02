@@ -2,7 +2,7 @@
 
 This repository supports the paper published at the Transportation Research Part A: Policy and Practice with a title "Why do people take e-scooter trips? Insights on temporal and spatial usage patterns of detailed trip data". 
 
-Highlights of the paper: /n
+Highlights of the paper: 
 • Spatiotemporal evaluation of micromobility data can support data-driven decisions.
 • Unsupervised machine learning identified five distinct e-scooter usage patterns.
 • The most popular type (29%) of e-scooter was daytime short errand trips.
